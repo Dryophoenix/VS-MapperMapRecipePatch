@@ -14,9 +14,3 @@ Mapper (
     https://github.com/Genhis/VintageStoryMods; Mapper
     https://mods.vintagestory.at/mapper
 )
-
-## Contact
-
-For suggestions, questions, or concerns, contact me!
-
-Leah Hillis @ leah@dryophoenix.net
