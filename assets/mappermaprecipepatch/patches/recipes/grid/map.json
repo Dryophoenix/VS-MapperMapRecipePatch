@@ -1,5 +1,6 @@
 [
     {
+        "op": "add",
         "width": 3,
         "height": 3,
         "ingredientPattern": "PPP,PCD,PPP",
@@ -25,6 +26,7 @@
         }
     },
     {
+        "op": "add",
         "width": 3,
         "height": 3,
         "ingredientPattern": "PPP,PCD,PPP",
