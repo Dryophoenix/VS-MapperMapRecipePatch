@@ -1,10 +1,12 @@
 [
     {
+        "file": "mapper:recipes/grid/map.json",
         "op": "add",
         "path": "/0/ingredients/C/consume",
         "value": false
     },
     {
+        "file": "mapper:recipes/grid/map.json",
         "op": "add",
         "path": "/1/ingredients/C/consume",
         "value": false
