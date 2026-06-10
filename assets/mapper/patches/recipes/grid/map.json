@@ -18,16 +18,9 @@
             }
         },
         "output": {
-            "M": {
-                "type": "item",
-                "code": "map-primitive-coal",
-                "quantity": 8
-            },
-            "E": {
-                "type": "item",
-                "code": "compass-primitive-*",
-                "quantity": 1
-            }
+            "type": "item",
+            "code": "map-primitive-coal",
+            "quantity": 8
         }
     },
     {
@@ -50,16 +43,9 @@
             }
         },
         "output": {
-            "M": {
-                "type": "item",
-                "code": "map-precise-coal",
-                "quantity": 8
-            },
-            "E": {
-                "type": "item",
-                "code": "compass-precise-*",
-                "quantity": 1
-            }
+            "type": "item",
+            "code": "map-precise-coal",
+            "quantity": 8
         }
     }
 ]
