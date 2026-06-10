@@ -1,14 +1,22 @@
 [
     {
         "op": "add",
+        "path": "/0/ingredients/C/isTool",
+        "value": true
+    },
+    {
+        "op": "add",
+        "path": "/1/ingredients/C/isTool",
+        "value": true
+    },
+    {
         "width": 3,
         "height": 3,
         "ingredientPattern": "PPP,PCD,PPP",
         "ingredients": {
             "C": {
                 "type": "item",
-                "code": "compass-primitive-*",
-                "isTool": true
+                "code": "compass-primitive-*"
             },
             "D": {
                 "type": "item",
@@ -26,15 +34,13 @@
         }
     },
     {
-        "op": "add",
         "width": 3,
         "height": 3,
         "ingredientPattern": "PPP,PCD,PPP",
         "ingredients": {
             "C": {
                 "type": "item",
-                "code": "compass-precise-*",
-                "isTool": true
+                "code": "compass-precise-*"
             },
             "D": {
                 "type": "item",
