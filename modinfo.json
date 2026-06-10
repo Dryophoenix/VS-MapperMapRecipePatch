@@ -6,7 +6,7 @@
         "Dryophoenix"
     ],
     "description": "A patch to not consume the compass on crafting the map.",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "requiredOnClient": false,
     "side": "server",
     "website": "https://github.com/Dryophoenix/VS-MapperMapRecipePatch",
