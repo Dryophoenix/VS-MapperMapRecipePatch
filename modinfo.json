@@ -1,12 +1,12 @@
 {
-    "type": "code",
+    "type": "content",
     "modId": "mapperMapRecipePatch",
     "name": "Mapper Map Recipe Patch",
     "authors": [
         "Dryophoenix"
     ],
     "description": "A patch to not consume the compass on crafting the map.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "requiredOnClient": false,
     "website": "https://github.com/Dryophoenix/VS-MapperMapRecipePatch",
     "dependencies": {
