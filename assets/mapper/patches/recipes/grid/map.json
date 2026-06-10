@@ -6,7 +6,8 @@
         "ingredients": {
             "C": {
                 "type": "item",
-                "code": "compass-primitive-*"
+                "code": "compass-primitive-*",
+                "isTool": true
             },
             "D": {
                 "type": "item",
@@ -30,7 +31,8 @@
         "ingredients": {
             "C": {
                 "type": "item",
-                "code": "compass-precise-*"
+                "code": "compass-precise-*",
+                "isTool": true
             },
             "D": {
                 "type": "item",
