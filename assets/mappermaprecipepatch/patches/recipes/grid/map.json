@@ -1,43 +1,39 @@
 [
     {
         "op": "replace",
-        "path": "/0/ingredients/C/returnedStack",
+        "path": "/0",
         "value": {
-            "op": "replace",
-            "path": "/0/",
-            "value": {
-                "width": 3,
-                "height": 3,
-                "ingredientPattern": "PPP,PCD,PPP",
-                "ingredients": {
-                    "C": {
-                        "type": "item",
-                        "code": "compass-primitive-*"
-                    },
-                    "D": {
-                        "type": "item",
-                        "code": "game:charcoal"
-                    },
-                    "P": {
-                        "type": "item",
-                        "code": "game:paper-papyrus"
-                    }
-                },
-                "output": {
-                    "type": "item",
-                    "code": "map-primitive-coal",
-                    "quantity": 8
-                },
-                "returnedStack": {
+            "width": 3,
+            "height": 3,
+            "ingredientPattern": "PPP,PCD,PPP",
+            "ingredients": {
+                "C": {
                     "type": "item",
                     "code": "compass-primitive-*"
+                },
+                "D": {
+                    "type": "item",
+                    "code": "game:charcoal"
+                },
+                "P": {
+                    "type": "item",
+                    "code": "game:paper-papyrus"
                 }
+            },
+            "output": {
+                "type": "item",
+                "code": "map-primitive-coal",
+                "quantity": 8
+            },
+            "returnedStack": {
+                "type": "item",
+                "code": "compass-primitive-*"
             }
         }
     },
     {
         "op": "replace",
-        "path": "/1/",
+        "path": "/1",
         "value": {
             "width": 3,
             "height": 3,
